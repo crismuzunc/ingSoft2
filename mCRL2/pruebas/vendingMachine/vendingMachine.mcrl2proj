@@ -1,0 +1,11 @@
+<root>
+ <spec>vendingMachine_spec.mcrl2</spec>
+ <properties>
+  <property>vm01a</property>
+  <property>vm01b</property>
+  <property>a</property>
+  <property>vm01c</property>
+ </properties>
+ <jittyc>false</jittyc>
+ <linearisation_method>regular</linearisation_method>
+</root>
